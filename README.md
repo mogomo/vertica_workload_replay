@@ -37,6 +37,7 @@ HOST="Vertica_Host_IP"
 PORT="5433"
 USER="dbadmin"
 PASSWORD="Your_dbadmin_password"
+```
 
 ### 2. Run the script to save the required queries 
 ./1_save_workload.sh
